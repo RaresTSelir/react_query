@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World 1",
+      "content": "Welcome to learning React Query"
+    },
+    {
+      "id": "2",
+      "title": "React Query",
+      "content": "React Query is a library for managing server state in React applications"
+    },
+    {
+      "id": "3",
+      "title": "React Query Devtools",
+      "content": "React Query Devtools is a browser extension for debugging React Query"
+    }
+  ]
+}
